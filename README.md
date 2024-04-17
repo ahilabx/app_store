@@ -1,6 +1,6 @@
 # AHILAB App Store (Fork from Chatbot UI)
 
-The open-source AI chat app for everyone.
+The idea of AHILAB app store is to create an open source version of the OpenAI GPTs app store accessible to anyone without any payment wall.
 
 <img src="./public/readme/screenshot.png" alt="Chatbot UI" width="600">
 
