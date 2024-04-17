@@ -1,4 +1,4 @@
-# Chatbot UI
+# AHILAB App Store (Fork from Chatbot UI)
 
 The open-source AI chat app for everyone.
 
